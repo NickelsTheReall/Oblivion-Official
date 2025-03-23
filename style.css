@@ -15,7 +15,7 @@ body {
 .link {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(48, 117, 201);
+    color: rgb(37, 171, 255);
 }
 .link:hover {
     animation: fadeLinkText 0.25s ease-in forwards;
