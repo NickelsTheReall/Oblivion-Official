@@ -99,3 +99,14 @@ body {
     margin-top: 10px;
     font-size: 1em;
 }
+.copy {
+    position: fixed;         /* Fixe la barre dans la fenêtre */
+    bottom: 0;              /* Place la barre tout en bas */
+    left: 0;                /* Aligne à gauche */
+    width: 100%;            /* Étend sur toute la largeur */
+    background-color: #207ca3; /* Ajoute une couleur de fond */
+    color: white;           /* Texte blanc pour un bon contraste */
+    text-align: center;     /* Centre le texte horizontalement */
+    padding: 10px;          /* Ajoute de l'espace intérieur */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3); /* Ombre subtile au-dessus */
+}
